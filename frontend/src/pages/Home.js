@@ -1,6 +1,7 @@
 import ItemList from "../componets/ItemList"
 import { Link } from 'react-router-dom';
 import { useState, useEffect } from 'react'
+import "../style/home.css"
 
 function Home(){
 
@@ -23,11 +24,12 @@ function Home(){
     }
 
     return (
-        <div>
-            <Link to="add-item">
-                <button>Lisa uus ese</button>
-            </Link>
+        <div className="items">
             <ItemList items={loadedItems}/>
+
+            <Link to="add-item">
+                <button className="additem">Lisa uus ese</button>
+            </Link>
         </div>
     )
 }

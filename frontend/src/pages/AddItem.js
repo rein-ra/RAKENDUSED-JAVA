@@ -1,4 +1,7 @@
 import AddItemForm from "../componets/AddItemForm";
+import "../style/additem.css"
+
+
 
 function AddItem(){
     function itemSubmitHandler(item){
@@ -11,9 +14,7 @@ function AddItem(){
         })
     }
     return (
-        <div>
-            <h1>Lisa uus ese</h1>
-        
+        <div className="form">
             <AddItemForm onAddItem={itemSubmitHandler}/>
         </div>
     )
