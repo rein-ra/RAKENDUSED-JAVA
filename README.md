@@ -7,10 +7,10 @@
 ![landingpage](https://github.com/rein-ra/RAKENDUSED-JAVA/blob/main/screenshots/productlist.png)
 
 Hover:
-![item-hover]https://github.com/rein-ra/RAKENDUSED-JAVA/blob/main/screenshots/productlist-hover.png)
+![item-hover](https://github.com/rein-ra/RAKENDUSED-JAVA/blob/main/screenshots/productlist-hover.png)
 
 ### Additem leht, kus input väljad on kujundatud ning aktiivseks muutumisel läheb suuremaks
-![additempage]https://github.com/rein-ra/RAKENDUSED-JAVA/blob/main/screenshots/additem.png)
+![additempage](https://github.com/rein-ra/RAKENDUSED-JAVA/blob/main/screenshots/additem.png)
 
 Focus:
 ![field-focus](https://github.com/rein-ra/RAKENDUSED-JAVA/blob/main/screenshots/additem-focus.png)
